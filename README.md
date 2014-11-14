@@ -1,8 +1,10 @@
 # HTML and CSS
 
-(Min 15hrs, Max 20hrs)
+(Min 10hrs, Max 15hrs)
 
 The source of all content on the web, HTML is a crucial markup syntax to understand. We will be covering very little HTML throughout the course and we seriously expect you to know what the basic tags are and when to use them.
+
+In this section you'll find a bunch of videos, code alongs, and labs.
 
 ## Learning Objectives
 
@@ -14,5 +16,3 @@ The source of all content on the web, HTML is a crucial markup syntax to underst
 6. CSS Selector Statements
 7. Building Page Layouts
 8. Positioning
-9. Rollover Image Sprites
-10. Responsive Layouts
