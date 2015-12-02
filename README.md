@@ -16,3 +16,5 @@ In this section you'll find a bunch of videos, code alongs, and labs.
 6. CSS Selector Statements
 7. Building Page Layouts
 8. Positioning
+
+<a href='https://learn.co/lessons/prework-html-css-objectives-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
